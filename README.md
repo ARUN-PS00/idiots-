@@ -59,8 +59,10 @@ Installation
 bash
 Copy
 Edit
+
 # Clone the repository
-git clone https://github.com/your-username/bubble-wrap-game.git
+git clone
+ https://github.com/your-username/bubble-wrap-game.git
 
 # Navigate into the project folder
 cd bubble-wrap-game
