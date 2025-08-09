@@ -9,8 +9,8 @@
 
 
 ### Team Members
-- Team Lead: NOEL BIJU - Collage of engineering poonjar
-- Member 2: ARUN PS - Collage of engineering poonjar
+- Team Lead: NOEL BIJU - College of engineering poonjar
+- Member 2: ARUN PS - College of engineering poonjar
 
 
 ### Project Description
@@ -111,7 +111,7 @@ this our final porduct..!
 
 ## Team Contributions
 - ARUN PS : HELP CODE THIS AND  DEBUG AND OVERVIEW
-- NOEL BIJU : IDEA + CODEING AND DEBUG
+- NOEL BIJU : IDEA + CODING AND DEBUG
 
 
 ---
